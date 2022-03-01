@@ -90,7 +90,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  (https://github.com/shadi6819)
 ##
 
 
@@ -160,9 +160,9 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}      |_|                ${RED}Version : 2.3
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by https://github.com/shadi6819 (Tomar.abuu)${WHITE}
 	EOF
 }
 
